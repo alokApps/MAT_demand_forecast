@@ -7,3 +7,4 @@ statsmodels
 matplotlib
 tqdm
 scikit-learn
+plotly
